@@ -14,31 +14,26 @@ The following shows the before and after of the changes to create semantic eleme
 
 Before:
 
-<a target="_blank" href="Develop/assets/images/before.png">
 <img src="Develop/assets/images/before.png" alt="Current website img" style="max-width:100%;">
 
 After:
 
-<a target="_blank" href="Develop/assets/images/after.png">
 <img src="Develop/assets/images/after.png" alt="Current website img" style="max-width:100%;">
 
 <H2>Logical Structure</H2>
 
 The after picture shows a logical structure to the page
 
-<a target="_blank" href="Develop/assets/images/after.png">
 <img src="Develop/assets/images/after.png" alt="Current website img" style="max-width:100%;">
 
 <H2>Alt attributes</H2>
 
 Alt attribures have been added to every image
 
-<a target="_blank" href="Develop/assets/images/alt.png">
 <img src="Develop/assets/images/alt.png" alt="Current website img" style="max-width:100%;">
 
 <H2>Heading And Title</H2>
 
 Headings fall in a sequential order and the title is consise/descriptive
 
-<a target="_blank" href="Develop/assets/images/title.png">
 <img src="Develop/assets/images/title.png" alt="Current website img" style="max-width:100%;">
