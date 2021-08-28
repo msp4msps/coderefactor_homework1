@@ -14,7 +14,7 @@ The following shows the before and after of the changes to create semantic eleme
 
 Before:
 
-<img src="Develop/assets/images/before.png" alt="Current website img" style="max-width:100%;">
+<img src="Develop/assets/images/Before.png" alt="Current website img" style="max-width:100%;">
 
 After:
 
